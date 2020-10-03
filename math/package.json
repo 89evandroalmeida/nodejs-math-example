@@ -1,0 +1,25 @@
+{
+    "name": "@89evandroalmeida/nodejs-math-example",
+    "description": "Teste de código Node.js para operações aritméticas básicas.",
+    "readmeFilename": "README.md" ,
+    "keywords": [
+        "nodejs",
+        "math"
+    ],
+    "tags": [
+        "nodejs",
+        "math"
+    ],
+    "version": "1.0.0",
+    "author": {
+        "name": "Evandro Almeida",
+        "email": "89evandroalmeida@gmail.com",
+        "homepage": "https://github.com/89evandroalmeida"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/89evandroalmeida/nodejs-math-example"
+    },   
+    "license": "MIT",   
+    "main": "index.js"
+}
