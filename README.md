@@ -1,6 +1,6 @@
 # nodejs-math-example
 
-Teste de operações aritméticas básicas em Node.js.
+Projeto desenvolvido como parte da resolução da Atividade Prática 1 - Unidade 2 da disciplina de 04 - Arquitetura de Software na Plataforma Node.js (2020).
 
 >O objetivo deste exercício é garantir que o aluno seja capaz de criar e utilizar módulos em Node.js. Utilizando os conceitos aprendidos ao longo das unidades 1 e 2 desta disciplina, você precisará construir um módulo em Node.js capaz de realizar funções matemáticas simples (adição, subtração, multiplicação e divisão) a partir de 2 números.
 <br>1. Crie um projeto em Node.js;
